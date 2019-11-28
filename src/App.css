@@ -1,4 +1,4 @@
-/*@import '~antd/dist/antd.css';*/
+@import '~antd/dist/antd.css';
 
 .App {
   text-align: center;
@@ -26,4 +26,8 @@
   font-size: 20px;
   color: #00f;
   font-weight: bold;
+}
+
+.ename {
+  font-size: 30px;
 }
